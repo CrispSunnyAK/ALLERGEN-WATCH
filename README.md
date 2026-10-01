@@ -1,4 +1,4 @@
-The Snack Allergen Checker is a C++ program that helps users identify common allergens found in packaged snacks. 
+FOOD DETECTIVES' Snack Allergen Checker is a C++ program that helps users identify common allergens found in packaged snacks. 
 Users can check a snack's allergens, view the available snack database, or search for snacks containing a specific allergen. 
 The program uses a simple database and search functions to provide the information quickly.
 
